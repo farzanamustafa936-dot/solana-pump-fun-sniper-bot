@@ -1,0 +1,9 @@
+node_modules/* linguist-vendored
+*.png binary
+*.svg text
+dist/* linguist-vendored
+src/**/*.astro linguist-detectable
+public/index.html linguist-vendored
+
+*.html linguist-vendored
+src/*.astro linguist-detectable
