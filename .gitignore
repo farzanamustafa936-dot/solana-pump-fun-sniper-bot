@@ -1,0 +1,3 @@
+*.tgz
+.pnpm-store/
+node_modules/
